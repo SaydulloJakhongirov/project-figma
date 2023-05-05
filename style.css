@@ -1,0 +1,514 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,700;1,800;1,900&display=swap');
+
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    max-width: 1400px;
+    margin: auto;
+    font-family: 'Inter';
+}
+
+.head-img {
+    position: relative;
+    top: 10px;
+}
+
+.head-logo {
+    margin-left: 50px;
+    font-size: 50px;
+    margin-top: -50px;
+}
+
+.head-group {
+    margin-left: 80px;
+    margin-top: -75px;
+    color: #002B64;
+}
+
+.group {
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.menu {
+    font-family: 'Inter';
+    margin-left: 1200px;
+    margin-top: -170px;
+    color: #002B64;
+}
+
+.slash {
+    position: relative;
+    margin-left: 1180px;
+    top: -135px;
+}
+
+.Subscribe {
+    font-family: 'Inter';
+    position: relative;
+    margin-left: 1050px;
+    top: -90px;
+    color: #002B64;
+}
+
+.icon {
+    position: relative;
+    margin-left: 970px;
+    top: -40px;
+}
+
+.upedri {
+    margin-left: 50px;
+}
+
+.KÜFFNER {
+    margin-top: 150px;
+    margin-left: 150px;
+}
+
+.mission {
+    font-family: 'Inter';
+    margin-left: 220px;
+    font-size: 30px;
+    color: #002B64;
+}
+
+.logo {
+    margin-left: 650px;
+    margin-top: 50px;
+}
+
+.Arrow {
+    position: relative;
+    margin-left: 570px;
+    top: 150px;
+}
+
+.group-hero {
+    margin-top: 200px;
+    margin-left: 50px;
+}
+
+.uber {
+    font-family: 'Inter';
+    margin-left: 60px;
+    font-size: 35px;
+    color: #002B64;
+}
+
+.people {
+    position: relative;
+    font-family: 'Inter';
+    margin-top: -30px;
+    margin-left: 60px;
+    color: #949494;
+    bottom: 350px;
+}
+
+.pople {
+    position: relative;
+    font-family: 'Inter';
+    margin-left: 60px;
+    color: #949494;
+    max-width: 510px;
+    bottom: 350px;
+}
+
+.up {
+    width: 3px;
+    margin-top: 80px;
+    margin-left: 30px;
+}
+
+.tert {
+    position: relative;
+    left: 35px;
+    top: 5px;
+}
+
+.hero-btn {
+    margin-left: 30px;
+    margin-top: -330px;
+}
+
+.btn {
+    padding: 15px 40px;
+    color: #FFFFFF;
+    background: #002B64;
+    box-shadow: 0px 2px 2px #00176A;
+    border-radius: 5px;
+    border: none;
+}
+
+.tipa-btn {
+    margin-left: 250px;
+    margin-top: -45px;
+}
+
+.butn {
+    padding: 15px 40px;
+    color: #FFFFFF;
+    background: #002B64;
+    box-shadow: 0px 2px 2px #00176A;
+    border-radius: 5px;
+    border: none;
+}
+
+.icons {
+    display: flex;
+    gap: 80px;
+    margin-left: 60px;
+}
+
+.icons1 {
+    font-family: 'Inter';
+    font-size: 55px;
+    color: #002B64;
+}
+
+.inter {
+    font-family: 'Inter';
+    color: #002B64;
+    max-width: 109px;
+    margin-top: -50px;
+}
+
+.ovo {
+    width: 200px;
+}
+
+.the {
+    position: relative;
+    background: #002B64;
+    width: 200px;
+    height: 90px;
+    margin-top: -50px;
+    border-radius: 0px 0px 15px 15px;
+    z-index: 10;
+}
+
+.Andreas {
+    color: #fff;
+}
+
+.Founder {
+    margin-top: -10px;
+    color: #949494;
+}
+
+.oppo {
+    position: relative;
+    margin-left: 200px;
+    top: -40px;
+    width: 40px;
+}
+
+.redmi {
+    position: relative;
+    top: -80px;
+    margin-left: 260px;
+    width: 40px;
+}
+
+.mi {
+    position: relative;
+    top: -50px;
+    margin-left: 260px;
+    width: 40px;
+}
+
+.jero {
+    margin-left: 750px;
+    margin-top: -535px;
+}
+
+.jer {
+    position: relative;
+    margin-left: 1000px;
+    top: -335px;
+}
+
+.logo-hero {
+    font-family: 'Inter';
+    font-size: 25px;
+    color: #002B64;
+}
+
+.paragrap {
+    font-family: 'Inter';
+    font-size: 16px;
+    color: #949494;
+    max-width: 621px;
+}
+
+.lero {
+    position: relative;
+    margin-left: 1000px;
+    top: -300px;
+    text-align: right;
+}
+
+.image {
+    width: 500px;
+    margin-left: -160px;
+}
+
+.peret {
+    margin-top: 70px;
+}
+
+.git {
+    margin-top: -250px;
+}
+
+.pero {
+    background-color: rgb(11, 11, 22);
+    height: 728px;
+}
+
+.piano {
+    margin-top: -300px;
+    margin-left: 30px;
+}
+
+.head-mg {
+    position: relative;
+    top: 20px;
+}
+
+.head-log {
+    color: #fff;
+    margin-left: 50px;
+    font-size: 50px;
+    margin-top: -35px;
+}
+
+.head-grou {
+    color: #fff;
+    margin-left: 80px;
+    margin-top: -75px;
+}
+
+.Subscrib {
+    font-family: 'Inter';
+    position: relative;
+    margin-left: 1050px;
+    top: -90px;
+    color: #fff;
+}
+
+.men {
+    font-family: 'Inter';
+    margin-left: 1200px;
+    margin-top: -170px;
+    color: #fff;
+}
+
+.hero-text {
+    margin-left: 450px;
+    margin-top: 150px;
+}
+
+.Küffner {
+    color: #fff;
+    text-align: center;
+    margin-left: 220px;
+    max-width: 949px;
+}
+
+.Scroll {
+    margin-left: 50px;
+    margin-top: -170px;
+}
+
+.fokus-btn {
+    margin-left: 600px;
+}
+
+.fk-btn {
+    padding: 10px 25px;
+    background-color: #002B64;
+    border: none;
+    box-shadow: 0px 2px 2px #00176A;
+    border-radius: 5px;
+    color: #FFFFFF;
+}
+
+.paddin {
+    margin-left: 1200px;
+    margin-top: 90px;
+}
+
+.margin {
+    margin-left: 1140px;
+    margin-top: 90px;
+}
+
+.margi {
+    margin-left: 1240px;
+    margin-top: 110px;
+}
+
+.paddi {
+    margin-left: 1250px;
+    margin-top: 100px;
+}
+
+.yer {
+    margin-left: -30px;
+}
+
+.ffer {
+    color: #002B64;
+    font-size: 65px;
+    text-align: center;
+    margin-top: 150px;
+}
+
+.ffe {
+    color: #fff;
+    font-size: 65px;
+    text-align: center;
+    margin-top: 150px;
+}
+
+.Consulting {
+    color: #002B64;
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Inter';
+    max-width: 900px;
+    margin-left: 200px;
+}
+
+.fokus-bt {
+    margin-left: 500px;
+}
+
+.fokus-bn {
+    margin-left: 700px;
+    margin-top: -40px;
+}
+
+.per {
+    background-color: rgb(11, 11, 22);
+    height: 728px;
+    margin-top: 295px;
+}
+
+.fokus-b {
+    margin-left: 550px;
+    margin-top: 50px;
+}
+
+.hero-footer {
+    margin-top: 50px;
+}
+
+.orla {
+    margin-left: -100px;
+}
+
+.yetti {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 34px;
+    letter-spacing: -0.5px;
+    color: #002B64;
+    max-width: 639px;
+    margin-left: 800px;
+    margin-top: -160px;
+}
+
+.footer-img {
+    width: 400px;
+    margin-left: 130px;
+}
+
+.input {
+    padding: 10px 30px;
+}
+
+.label {
+    position: relative;
+    margin-left: 600px;
+    top: -370px;
+}
+
+.inpu {
+    padding: 10px 30px;
+}
+
+.labe {
+    position: relative;
+    margin-left: 950px;
+    top: -370px;
+}
+
+.row {
+    position: relative;
+    margin-left: 700px;
+    top: -300px;
+}
+
+.reverse {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 13px;
+    line-height: 21px;
+    letter-spacing: 0.1px;
+    color: #002B64;
+    max-width: 288px;
+    margin-top: -300px;
+    margin-left: 140px;
+}
+
+.footer-btn {
+    margin-left: 600px;
+    margin-top: -60px;
+}
+
+.foot {
+    padding: 10px 30px;
+    background: #002B64;
+    box-shadow: 0px 2px 2px #002B64;
+    border-radius: 5px;
+    color: #fff;
+    border: none;
+}
+
+.Copyright {
+    position: relative;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    color: #002B64;
+    width: 125px;
+    top: 80px;
+    margin-left: 150px;
+}
+
+.ilo {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 21px;
+    color: #002B64;
+    max-width: 114px;
+    margin-left: 400px;
+    margin-top: 45px;
+}
+
+.footer-number{
+    margin-left: 1250px;
+    margin-top: -70px;
+}
